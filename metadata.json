@@ -1,0 +1,7 @@
+{
+  "name": "FocoConcurso - Gestão de Estudos e Revisões",
+  "description": "Plataforma minimalista e de alta performance para concurseiros com cronômetro de foco, ciclo de estudos, edital verticalizado, repetição espaçada, metas semanais e relatórios.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
